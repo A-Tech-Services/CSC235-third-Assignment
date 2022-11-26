@@ -27,4 +27,4 @@ CHECK IF COUNTER IS EQUAL TO NUMBERARRAY OF LOOP M
     IF NO TESTNUMBER IS NOT A SELF DESCRIBING NUMBER
 END
 
-link to github : https://github.com/JsmediaGP/CSC235.3.git
+link to github : https://github.com/A-Tech-Services/CSC235-third-Assignment.git
